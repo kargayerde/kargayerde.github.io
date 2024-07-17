@@ -1,6 +1,7 @@
 function App() {
 	const pages = {
 		WASMbrot: "https://kargayerde.github.io/wasmbrot/",
+		balls: "https://kargayerde.github.io/balls/",
 		"More Discourses": "https://kargayerde.github.io/more-discourses/",
 		"Trippy Algebra": "https://kargayerde.github.io/trippy-algebra/",
 		Transposer: "https://kargayerde.github.io/transposer/",
