@@ -30,11 +30,12 @@ body {
 a {
 	color: greenyellow;
 	font-size: xx-large;
+
 	&:hover {
 		color: rgb(179, 140, 217);
 	}
 	/* &:visited {
-		color: rgb(179, 140, 217);
+		color: hsl(84, 100%, 19%);
 	} */
 }
 
