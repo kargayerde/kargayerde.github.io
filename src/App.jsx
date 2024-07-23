@@ -28,7 +28,7 @@ function App() {
 			title: "Pigraph",
 			link: "https://kargayerde.github.io/pigraph/",
 			repo: "",
-			description: "Graph of digits of pi in different radixed rendered to HTML canvas.",
+			description: "Graph of digits of pi in different radixes rendered to HTML canvas.",
 		},
 		{
 			title: "Parallax Scroller",
