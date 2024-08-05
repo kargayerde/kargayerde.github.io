@@ -16,7 +16,7 @@ function App() {
 			title: "chatnoir",
 			link: "https://chatnoir-front.onrender.com/",
 			repo: "",
-			description: "Full stack P2P encrypted group chat proof-of-work.",
+			description: "Full stack end-to-end encrypted group chat proof-of-work.",
 		},
 		{
 			title: "Trippy Algebra",
