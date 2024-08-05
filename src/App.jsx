@@ -74,7 +74,7 @@ function App() {
 		<div className="App">
 			{pages.map(({ title, link, repo, description }, index) => (
 				<div key={index}>
-					<a href={link} target="#">
+					<a href={link} target="_blank">
 						{title.toLocaleLowerCase("tr")}
 					</a>
 					<div>{description}</div>
